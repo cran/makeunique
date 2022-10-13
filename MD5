@@ -1,0 +1,11 @@
+781ac94a8adb7d322f3ec67a1d34b53a *DESCRIPTION
+4a79f3b897a36f31c1455a7245ab9daa *LICENSE
+fc4cf0e5e87ab3e3eb78c92bc47d6257 *NAMESPACE
+073a2a51a248ab4c3dba02450c422cad *R/make_unique.R
+2f3a9c565175277eebeccb6961cfd038 *README.md
+8ac6edabefabc3e67ae021cdefaf44e8 *inst/hex_logo.png
+7e7e2bdeaa9f46388ee3d379351c069e *inst/hex_logo.svg
+a64582c6dc441075dfdc3c4e88a3028c *man/figures/logo.png
+5ef4b72d0d9a7c3ea9fede029aa53843 *man/make_unique.Rd
+7abfa4ebfd5f1b2d1f777299ae7dc5f9 *tests/testthat.R
+1a06206ca4ab28c7841e5eb45605fe8c *tests/testthat/test-make_unique.R
